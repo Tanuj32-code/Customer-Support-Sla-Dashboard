@@ -1,5 +1,8 @@
 # Customer Support SLA Dashboard
 
+[Download Dashboard PDF](Customer_Support_Queue_and_SLA_Analytics_Dashboard.pdf)  
+[Download PBIX File](Customer_Support_Queue_and_SLA_Analytics_Dashboard.pbix)
+
 This project contains a **Power BI dashboard** for analyzing customer support queues and SLA compliance.
 
 ## Features
