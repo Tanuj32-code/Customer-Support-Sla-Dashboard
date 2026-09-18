@@ -18,8 +18,9 @@ This project contains a **Power BI dashboard** for analyzing customer support qu
 - Python (optional preprocessing scripts)
 
 ## Files Included
-- `Customer_Support_Queue_and_SLA_Analytics_Dashboard.pbix` → Interactive Power BI dashboard.
-- `Customer_Support_Queue_and_SLA_Analytics_Dashboard.pdf` → Exported static view for quick reference.
+- 'synthetic_support_tickets.csv' -> Dataset
+- 'Customer_Support_Queue_and_SLA_Analytics_Dashboard.pbix' → Interactive Power BI dashboard.
+- 'Customer_Support_Queue_and_SLA_Analytics_Dashboard.pdf' → Exported static view for quick reference.
 
 ## How to Use
 - Download the PBIX file and open in Power BI Desktop.
